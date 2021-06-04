@@ -1,0 +1,15 @@
+/Users/dquordle/RiderProjects/d02/d02/bin/Debug/net5.0/d02.deps.json
+/Users/dquordle/RiderProjects/d02/d02/bin/Debug/net5.0/d02.runtimeconfig.json
+/Users/dquordle/RiderProjects/d02/d02/bin/Debug/net5.0/d02.runtimeconfig.dev.json
+/Users/dquordle/RiderProjects/d02/d02/bin/Debug/net5.0/d02.dll
+/Users/dquordle/RiderProjects/d02/d02/bin/Debug/net5.0/ref/d02.dll
+/Users/dquordle/RiderProjects/d02/d02/bin/Debug/net5.0/d02.pdb
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.csprojAssemblyReference.cache
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.AssemblyInfoInputs.cache
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.AssemblyInfo.cs
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.csproj.CoreCompileInputs.cache
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.dll
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/ref/d02.dll
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.pdb
+/Users/dquordle/RiderProjects/d02/d02/obj/Debug/net5.0/d02.genruntimeconfig.cache

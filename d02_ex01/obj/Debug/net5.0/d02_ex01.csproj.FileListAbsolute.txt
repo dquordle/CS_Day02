@@ -1,0 +1,17 @@
+/Users/dquordle/RiderProjects/d02/d02_ex01/bin/Debug/net5.0/d02_ex01.deps.json
+/Users/dquordle/RiderProjects/d02/d02_ex01/bin/Debug/net5.0/d02_ex01.runtimeconfig.json
+/Users/dquordle/RiderProjects/d02/d02_ex01/bin/Debug/net5.0/d02_ex01.runtimeconfig.dev.json
+/Users/dquordle/RiderProjects/d02/d02_ex01/bin/Debug/net5.0/d02_ex01.dll
+/Users/dquordle/RiderProjects/d02/d02_ex01/bin/Debug/net5.0/ref/d02_ex01.dll
+/Users/dquordle/RiderProjects/d02/d02_ex01/bin/Debug/net5.0/d02_ex01.pdb
+/Users/dquordle/RiderProjects/d02/d02_ex01/bin/Debug/net5.0/YamlDotNet.dll
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.csprojAssemblyReference.cache
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.AssemblyInfoInputs.cache
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.AssemblyInfo.cs
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.csproj.CoreCompileInputs.cache
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.csproj.CopyComplete
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.dll
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/ref/d02_ex01.dll
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.pdb
+/Users/dquordle/RiderProjects/d02/d02_ex01/obj/Debug/net5.0/d02_ex01.genruntimeconfig.cache
